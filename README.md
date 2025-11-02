@@ -10,7 +10,7 @@ El protocolo HTTP (HyperText Transfer Protocol) constituye uno de los pilares fu
 
 Este trabajo de investigación tiene como objetivo analizar los fundamentos del protocolo HTTP, su evolución hacia HTTPS mediante el uso de SSL/TLS, los puertos más utilizados en la comunicación, los principales códigos de estado y los métodos que definen las operaciones dentro de las APIs RESTful. A través de ejemplos prácticos y reflexiones personales, se busca consolidar una comprensión clara y aplicada de este protocolo esencial para el desarrollo web actual.
 
-# **Diferencias entre el modelo HTTP y HTTPS**
+## **Diferencias entre el modelo HTTP y HTTPS**
 
 ### ¿Qué es el modelo HTTP?
 
