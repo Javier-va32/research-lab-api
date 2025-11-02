@@ -1,6 +1,10 @@
 # **Trabajo de investigación: Protocolo HTTP y su relación con las APIs web**
 
-# **Introducción**
+* Nombre: Javier Valenzuela
+* Cohorte: 22
+* Fecha de entrega: 02/11/25
+
+## **Introducción**
 
 El protocolo HTTP (HyperText Transfer Protocol) constituye uno de los pilares fundamentales del funcionamiento de la web moderna. A través de él, los navegadores, servidores y APIs intercambian información estructurada mediante solicitudes y respuestas estandarizadas. Comprender su funcionamiento es esencial para todo desarrollador o estudiante de programación, ya que permite interpretar cómo fluyen los datos en una aplicación web y cómo se garantiza una comunicación eficiente entre cliente y servidor.
 
@@ -385,3 +389,15 @@ Content-Type: application/json
   "saldo": 200000
 }
 ```
+
+## Reflexión
+
+Este trabajo me permitió comprender con claridad qué es realmente un backend.
+Mientras escribía el ejemplo de una solicitud HTTP para una aplicación bancaria, me di cuenta de que confundía algunos conceptos, lo que me llevó a investigar y entender la diferencia entre frontend, backend y API. Ahora sé que la API es una parte del backend encargada de la comunicación con el cliente.
+
+También comprendí la importancia del protocolo HTTPS como base de la seguridad en la web.
+Aprendí a interpretar los códigos de estado (status codes) y entendí cómo pueden ayudarme a diagnosticar errores o verificar el funcionamiento correcto de mis propias aplicaciones.
+
+Además, los métodos HTTP me ayudaron a profundizar en cómo se establece la comunicación con una API REST, mientras que el estudio de los headers me permitió comprender mejor el intercambio de información entre cliente, API y servidor.
+
+En conjunto, este trabajo fortaleció mi entendimiento sobre el flujo completo de comunicación en una aplicación web moderna.
